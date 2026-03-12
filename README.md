@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB347,FF6B35&height=200&section=header&text=Paul%20Groß&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Binary%20Shire%20·%20IT-Security%20·%20Gießen&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB347,FF6B35&height=200&section=header&text=Paul%20Groß&fontSize=60&fontColor=FFB347&fontAlignY=38&desc=Binary%20Shire%20·%20IT-Security%20·%20Gießen&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFB347&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Not+all+who+wander+are+lost.;But+your+data+might+be.)](https://binaryshire.de)
 
